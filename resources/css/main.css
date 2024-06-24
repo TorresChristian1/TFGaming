@@ -1,7 +1,6 @@
 *{
     background-color: black;
     color: slategrey;
-<<<<<<< HEAD
 }
 
 .gamesList, .gamesDetails, .gamesDescriptions{
@@ -46,6 +45,4 @@ img, .tImage{
     border-radius: 75px;
    height: 135px;
    width: 135px;
-=======
->>>>>>> 9e95ccc7b26d829b73ce4a285beb6a7126639504
 }
