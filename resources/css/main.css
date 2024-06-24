@@ -2,3 +2,47 @@
     background-color: black;
     color: slategrey;
 }
+
+.gamesList, .gamesDetails, .gamesDescriptions{
+    font-size: .875rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+    font-weight: 500;
+}
+
+.gamesList {
+    color: gold;
+}
+
+.gamesDescriptions{
+    color: red;
+}
+
+.gamesDetails{
+    color: green;
+}
+
+.teamMemberName, .age, .biography{
+    font-size: .8125rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+    font-weight: 500;
+}
+
+.teamMemberName{
+    color: blue;
+}
+
+.age{
+    color: grey;
+}
+
+.biography{
+    color: darkslategrey;
+}
+
+img, .tImage{
+    border-radius: 75px;
+   height: 135px;
+   width: 135px;
+}

@@ -11,3 +11,8 @@
  - Built the rest of the html files needed and renamed index.js to main.js and updated on all html files and removed         index.  css file and updated and replaced with main.css to able to use on all and not index.css orignally for one page.
  - images are still not added, and rest got checked twice to ensure the code and all is bug free before uploading to repo.
  - updated the README.md with all new changes and added small changes here and there.
+
+ ## 0.0.3 Changes:
+ - Built a small amount of games.html to add two games to list but will add more with time and ensure it looks pretty cool and slick.
+ - on teams.html just add picture of me a little bit of name, age, and biography About me and title. with extra information.
+ - add styling to the added items in our html files that got some new information added. I am still testing new color pallete to ensure it is a good combination. It isn't final until we put the whole page together.
