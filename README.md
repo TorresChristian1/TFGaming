@@ -19,3 +19,8 @@
  - updated the README.md with all new changes and added small changes here and there.
 ## 0.0.4 Changes:
 -Removed HEAD that GitHub added onto current pages I worked on.
+
+## 0.0.5
+- Worked on Teams page adding Ms. Alvarado Part and bio.
+- added 2 games on the games html.
+- Lastly worked alil on the main.css file to try to work on games.html styling, but no success  and adding to the code and add more to it and fixes into the css file.
